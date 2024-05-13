@@ -3,22 +3,22 @@
     {
       "isim": "Ayasofya Camii",
       "aciklama": "İstanbul'un sembol yapılarından biri olan Ayasofya, Bizans ve Osmanlı dönemlerinde önemli bir dini yapı olarak hizmet vermiştir. 537 yılında inşa edilen Ayasofya, mimari ve tarihi önemiyle dünya çapında tanınmaktadır. Özellikle kubbesi ve mozaikleri ile dikkat çeker.",
-      "fotourl": "https://raw.githubusercontent.com/KubrasBozkurt/Istanbul/master/ayasofya-camii-1.jpg"
+      "fotourl": "https://raw.githubusercontent.com/KubrasBozkurt/Istanbul/main/ayasofya-camii-1.jpg"
     },
     {
       "isim": "Kız Kulesi",
       "aciklama": "İstanbul Boğazı'nın incisi olan Kız Kulesi, tarihi ve efsaneleriyle büyüleyici bir yapıdır. 18. yüzyılda yenilenen kule, eşsiz manzarası ve restoranı ile İstanbul'un en popüler turistik mekanlarından biridir.",
-      "fotourl": "https://raw.githubusercontent.com/KubrasBozkurt/Istanbul/master/0003_kiz-kulesi.jpg"
+      "fotourl": "https://raw.githubusercontent.com/KubrasBozkurt/Istanbul/main/0003_kiz-kulesi.jpg"
     },
     {
       "isim": "Rumeli Hisarı",
       "aciklama": "Fatih Sultan Mehmet tarafından İstanbul'un fethi öncesinde Boğaz'ı korumak amacıyla yaptırılan Rumeli Hisarı, şehrin tarihi mirasının önemli bir parçasıdır. 15. yüzyılda inşa edilen hisar, sağlam yapısı ve muhteşem manzarasıyla dikkat çeker.",
-      "fotourl": "https://raw.githubusercontent.com/KubrasBozkurt/Istanbul/master/rumeli-hisari.jpg"
+      "fotourl": "https://raw.githubusercontent.com/KubrasBozkurt/Istanbul/main/rumeli-hisari.jpg"
     },
     {
       "isim": "Yerebatan Sarnıcı",
       "aciklama": "İstanbul'un en önemli su yapılarından biri olan Yerebatan Sarnıcı, muhteşem sütunları ve atmosferiyle ziyaretçilerini etkilemektedir. Bizans döneminde su deposu olarak kullanılan sarnıç, şimdi tarihi ve mimari önemiyle ön plana çıkmaktadır.",
-      "fotourl": "https://raw.githubusercontent.com/KubrasBozkurt/Istanbul/master/yerebatan-sarnici.jpg"
+      "fotourl": "https://raw.githubusercontent.com/KubrasBozkurt/Istanbul/main/yerebatan-sarnici.jpg"
     }
   ]
 }
